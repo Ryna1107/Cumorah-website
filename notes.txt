@@ -1,0 +1,36 @@
+Planning of the website: 
+
+Sections to include: 
+- Header: contains logo and navigation bar 
+    - Logo 
+    - Gradient background 
+    - Navigation 
+    - Log in 
+    - Search 
+- Hero: tells visitors the purpose the purpose of the webpage 
+    - Image background 
+    - Title 
+    - Subtitle 
+    - 2 Buttons 
+- Mission: 3 columns about the mission of Cumorah 
+    - Title
+    - Description 
+    - 3 Columns 
+    - Button
+- Why Cumorah 
+    - Gradient background with pic
+    - Title 
+    - Subtitle
+    - Button 
+- Articles (2)
+    - Title 
+    - Button 
+    - Box: images, title and Description
+- Policy
+    - Title 
+    - Subtitle 
+    - Paragraph
+- Call to action:
+    - title 
+    - paraghaph 
+    - button 
